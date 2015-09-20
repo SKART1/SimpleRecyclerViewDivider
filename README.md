@@ -4,8 +4,9 @@ SimpleRecyclerViewDivider is a library which allows to put inside list of items 
 
 ## Example
 Here is the list of chats grouped by date, as you can see on image below separators
- 
-![image](https://raw.githubusercontent.com/SKART1/SimpleRecyclerViewDivider/master/images/example.jpg=200x100)
+
+<img src="https://raw.githubusercontent.com/SKART1/SimpleRecyclerViewDivider/master/images/example.jpg" height="400" width="250">
+
 
 ## Usage
 * Firstly you need to create class which implements interfaces `SimpleDividerAdapter` and `DividerProvider`. First interface gives  
