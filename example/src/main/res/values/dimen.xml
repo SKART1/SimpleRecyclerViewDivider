@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chat_item_height">72dp</dimen>
+    <dimen name="chat_item_avatar_size">48dp</dimen>
+
+    <dimen name="date_divider_height">72dp</dimen>
+</resources>
