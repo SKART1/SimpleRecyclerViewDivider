@@ -10,7 +10,7 @@ Here is the list of chats grouped by date, as you can see on image below separat
 
 ## Usage
 * Firstly you need to create class which implements interfaces `SimpleDividerAdapter` and `DividerProvider`. First interface gives  
-* After that you should add a new decorator by [addItemDecoration](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html#addItemDecoration(android.support.v7.widget.RecyclerView.ItemDecoration) method of your recyclerView
+* After that you should add a new decorator by [addItemDecoration](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html#addItemDecoration(android.support.v7.widget.RecyclerView.ItemDecoration)) method of your recyclerView
 
 
 ## Using in IntelliJ
